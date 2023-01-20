@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-migrate-content",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
   "strapi": {
     "name": "strapi-plugin-migrate-content",
@@ -33,6 +33,10 @@
     "type": "git",
     "url": "https://github.com/nitinNT/strapi-plugin-migrate-content"
   },
-
+  "keywords": [
+    "strapi",
+    "strapi-plugin",
+    "content-migrate"
+  ],
   "license": "MIT"
 }
