@@ -1,0 +1,38 @@
+{
+  "name": "strapi-plugin-migrate-content",
+  "version": "0.0.1",
+  "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
+  "strapi": {
+    "name": "strapi-plugin-migrate-content",
+    "description": "This plugin allows content manangers to migrate the contents from one Strapi CMS environment to other environment.",
+    "kind": "plugin",
+    "displayName": "Strapi Plugin Migrate Content"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
+  "devDependencies": {
+    "@strapi/design-system": "1.4.0",
+    "@strapi/icons": "1.4.0",
+    "axios": "1.1.3",
+    "@strapi/helper-plugin": "4.5.0"
+  },
+  "author": {
+    "name": "Nitin Tejuja"
+  },
+  "maintainers": [
+    {
+      "name": "Nitin Tejuja"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nitinNT/strapi-plugin-migrate-content"
+  },
+
+  "license": "MIT"
+}
